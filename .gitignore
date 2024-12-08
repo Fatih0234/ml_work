@@ -1,0 +1,8 @@
+# Ignore the "venv" directory for virtual environments
+venv/
+1.supervised_unsupervised_learning/
+# Ignore all .log files
+*.log
+
+# Ignore a specific file
+secret_config.py
