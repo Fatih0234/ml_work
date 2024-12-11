@@ -101,6 +101,7 @@ def main():
     print("2. What happens if you add more noise to the data? Modify the random noise and observe.")
     print("3. How does the number of epochs impact the final loss? Try reducing it to 10 or increasing it to 500.")
     print("4. Can you modify the gradient descent function to use L1 loss instead of L2 loss?")
+    print("5. What happens if you initialize the weights and bias to non-zero values?")
 
 if __name__ == "__main__":
     main()
